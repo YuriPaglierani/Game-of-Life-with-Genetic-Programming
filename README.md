@@ -11,7 +11,7 @@ Here, you can compare the handcrafted version with the learned one and make some
 
 Here, I've played a bit with one of the models I've obtained to reverse-simulate the GoL over a Conway's picture.
 
-### speeding_the_life.ipynb
+### speeding_up_the_life.ipynb
 
 Here, I've sped up a bit my classes in order to compute faster the function "step" and I've analyzed the execution time.
 
