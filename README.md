@@ -7,7 +7,7 @@ In this Jupyter Notebook I define my standard Game of Life and I try to understa
 
 Here, you can compare the handcrafted version with the learned one and make some animations.
 
-### conway_backgrounds.ipynb
+### conway_background.ipynb
 
 Here, I've played a bit with one of the models I've obtained to reverse-simulate the GoL over a Conway's picture.
 
